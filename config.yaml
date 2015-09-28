@@ -1,0 +1,8 @@
+---
+
+  - name: 'Maracucho Translate'
+    description: 'Statistical machine translation for spanish to maracucho'
+    twitter_accounts:
+      - '@anteroofficial'
+    instagram_accounts:
+      - '2genesismendoza'
